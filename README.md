@@ -6,7 +6,7 @@ This project serves as a proof of concept for the usage of ML to aid decision-ma
 Using Mood_Swings (Yes/No column) as my target variable, I built a decision tree to classify people's risk for mood swings based on lifestyle information gathered from survey data.
 Mood swings are often a warning sign for an impending mental health crisis, so by being able to predict the liklihood of an individual experiencing these symptoms, local and state governments can more effectively allocate healthcare resources for vulnerable populations.
 
-Using the decision tree model, I was able to predict the likelihood of an individual having mood swings using their survey data with an accuracy rate of **96%**.
+With the decision tree model, I was able to predict the likelihood of an individual having mood swings using their survey data with an accuracy rate of **96%**.
 High accuracy, however, does not necessarily indicate optimal model performance - it may be an indicator of overfitting. Luckily, the accuracies of the test and train data were nearly identical, meaning the model performs well on unseen data.
 
 -------------------------------------------------------------------------------------------------------------------
